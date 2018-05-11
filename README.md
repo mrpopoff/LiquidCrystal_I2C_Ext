@@ -21,7 +21,7 @@ PCF8574 is Remote 8-bit I/O expander for I2C-bus.
 
 ### MT-16S2H Datasheet
 
-[MT-16S2H Datasheet]http://www.melt.com.ru/docs/MT-16S2H.pdf
+[MT-16S2H Datasheet](http://www.melt.com.ru/docs/MT-16S2H.pdf)
 
 ## How to install
 
