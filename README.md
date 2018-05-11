@@ -7,9 +7,21 @@ Adds support for character codes translation tables when printing utf-8 strings 
 
 PCF8574 is Remote 8-bit I/O expander for I2C-bus.
 
+![](https://os.mbed.com/media/uploads/wim/backpacks.jpg)
+
 ### PCF8574 Datasheet
 
 [PCF8574 Datasheet](http://www.nxp.com/documents/data_sheet/PCF8574_PCF8574A.pdf)
+
+### MT-16S2H
+
+![](http://www.melt.com.ru/components/com_virtuemart/shop_image/product/MT_16S2H_2YLG_4da47fde499cb.jpg)
+
+[Description](http://www.melt.com.ru/en/shop/mt-16s2h-2ylg.html)
+
+### MT-16S2H Datasheet
+
+[MT-16S2H Datasheet]http://www.melt.com.ru/docs/MT-16S2H.pdf
 
 ## How to install
 
